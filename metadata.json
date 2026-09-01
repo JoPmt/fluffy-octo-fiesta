@@ -1,0 +1,6 @@
+{
+  "name": "Quantum Swarm Core",
+  "description": "Autonomous multi-role local LLM agent orchestration platform with MCP tool bridges, terminal telemetry, and real-time swarm execution.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
